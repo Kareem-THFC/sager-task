@@ -1,4 +1,4 @@
-export const WEBSOCKET_URL = "http://localhost:9013";
+export const WEBSOCKET_URL = "https://sager-task-backend-5xde.onrender.com";
 
 export const MAP_CONFIG = {
   MAPBOX_TOKEN: import.meta.env.VITE_MAPBOX_ACCESS_TOKEN,
